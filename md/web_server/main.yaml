@@ -1,0 +1,5 @@
+name: web_server
+displayName: web伺服器
+mds:
+nodes:
+  - name: nginx
