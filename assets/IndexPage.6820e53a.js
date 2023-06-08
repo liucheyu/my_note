@@ -1,0 +1,1 @@
+import{B as o,ah as a,a3 as r,a4 as t}from"./index.46383fcc.js";const p=o({__name:"IndexPage",props:{mdText:String},setup(n){return(s,c)=>{const e=a("q-markdown");return r(),t(e,{src:n.mdText,"show-copy":"","no-heading-anchor-links":""},null,8,["src"])}}});export{p as default};
